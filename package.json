@@ -1,14 +1,19 @@
 {
-  "name": "amazon-clone",
+  "name": "mega-store-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Mega store REST API with express and mongodb",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "heroku"
+  ],
+  "author": "alvin-ferdian",
+  "engines":{
+    "node": "12.x"
+  },
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
