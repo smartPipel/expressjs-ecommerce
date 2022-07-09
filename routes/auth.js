@@ -9,8 +9,8 @@ const {
   tokenIsValid,
 } = require("../controllers/auth-controller");
 
-authRouter.post("/api/signup", signUp);
-authRouter.post("/api/signin", signIn);
+authRouter.post("/signup", signUp);
+authRouter.post("/signin", signIn);
 authRouter.post("/tokenIsValid", tokenIsValid);
 authRouter.get("/", auth, getUserData);
 

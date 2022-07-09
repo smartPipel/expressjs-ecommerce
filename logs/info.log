@@ -1,0 +1,46 @@
+[32minfo[39m : Log  : GET : Jul-09-2022 07:28:33 : Alvin : 127.0.0.1 : /
+[32minfo[39m : Log  : GET : Jul-09-2022 07:28:37 : Alvin : 127.0.0.1 : /sad/sd
+[32minfo[39m : Log  : GET : Jul-09-2022 07:28:41 : Alvin : 127.0.0.1 : /
+[32minfo[39m : Log  : GET : Jul-09-2022 07:36:26 : Alvin : 127.0.0.1 : /
+[31merror[39m : Log  : undefined : Jul-09-2022 07:50:57 : [object Object] : undefined : undefined
+[31merror[39m : Log  : undefined : Jul-09-2022 07:51:12 : [object Object] : undefined : undefined
+[31merror[39m : Log  : undefined : Jul-09-2022 07:51:31 : [object Object] : undefined : undefined
+[31merror[39m : Log  : GET : Jul-09-2022 07:52:17 : Alvin : 127.0.0.1 : /
+[32minfo[39m : Log  : GET : Jul-09-2022 07:52:17 : Alvin : 127.0.0.1 : /
+[31merror[39m : Log  : GET : Jul-09-2022 07:52:18 : Alvin : 127.0.0.1 : /
+[32minfo[39m : Log  : GET : Jul-09-2022 07:52:18 : Alvin : 127.0.0.1 : /
+[31merror[39m : Log  : GET : Jul-09-2022 07:52:30 : Alvin : 127.0.0.1 : /alvin
+[32minfo[39m : Log  : GET : Jul-09-2022 07:52:30 : Alvin : 127.0.0.1 : /alvin
+[31merror[39m : Log  : GET : Jul-09-2022 07:53:08 : Alvin : 127.0.0.1 : /alvin
+[31merror[39m : Log  : GET : Jul-09-2022 07:53:15 : Alvin : 127.0.0.1 : /
+[31merror[39m : Log  : undefined : Jul-09-2022 08:30:46 : 404 : undefined : undefined
+[31merror[39m : Log  : undefined : Jul-09-2022 08:33:39 : 404 : undefined : undefined
+[31merror[39m : Log  : undefined : Jul-09-2022 08:33:42 : 404 : undefined : undefined
+[31merror[39m : Log  : undefined : Jul-09-2022 08:33:45 : 404 : undefined : undefined
+[31merror[39m : Log  : undefined : Jul-09-2022 08:34:39 : 404 : undefined : undefined
+[31merror[39m : Log  : undefined : Jul-09-2022 08:34:42 : 404 : undefined : undefined
+[31merror[39m : Log  : undefined : Jul-09-2022 08:34:43 : 404 : undefined : undefined
+[32minfo[39m : Log  : GET : Jul-09-2022 08:35:29 : No auth token, access danied! : 127.0.0.1 : /v1
+[32minfo[39m : Log  : GET : Jul-09-2022 08:35:39 : No auth token, access danied! : 127.0.0.1 : /v1
+[31merror[39m : Log  : undefined : Jul-09-2022 08:35:45 : 404 : undefined : undefined
+[31merror[39m : Log  : undefined : Jul-09-2022 08:35:51 : 404 : undefined : undefined
+[32minfo[39m : Log  : GET : Jul-09-2022 08:35:54 : No auth token, access danied! : 127.0.0.1 : /v1
+[31merror[39m : Log  : undefined : Jul-09-2022 08:36:00 : 404 : undefined : undefined
+[31merror[39m : Log  : GET : Jul-09-2022 08:37:22 : 404 NotFound API endpoint doesn't exists! : 127.0.0.1 : /
+[32minfo[39m : Log  : GET : Jul-09-2022 08:37:28 : No auth token, access danied! : 127.0.0.1 : /v1/
+[31merror[39m : Log  : GET : Jul-09-2022 08:37:32 : 404 NotFound API endpoint doesn't exists! : 127.0.0.1 : /
+[31merror[39m : Log  : GET : Jul-09-2022 08:37:48 : 404 NotFound API endpoint doesn't exists! : 127.0.0.1 : undefined
+[31merror[39m : Log  : GET : Jul-09-2022 08:37:51 : 404 NotFound API endpoint doesn't exists! : 127.0.0.1 : undefined
+[31merror[39m : Log  : GET : Jul-09-2022 08:37:53 : 404 NotFound API endpoint doesn't exists! : 127.0.0.1 : undefined
+[31merror[39m : Log  : GET : Jul-09-2022 08:38:05 : 404 NotFound API endpoint doesn't exists! : 127.0.0.1 : /v1/s
+[31merror[39m : Log  : GET : Jul-09-2022 08:38:08 : 404 NotFound API endpoint doesn't exists! : 127.0.0.1 : /v1/sda
+Jul-09-2022 08:55:08  GET  [31merror[39m User Log : 404 NotFound API endpoint doesn't exists! : 127.0.0.1 : /v1/sda
+Jul-09-2022 08:55:19  GET  [31merror[39m User Log : 404 NotFound API endpoint doesn't exists! : 127.0.0.1 : /v1/sda
+Jul-09-2022 08:55:22  GET  [32minfo[39m User Log : No auth token, access danied! : 127.0.0.1 : /v1/
+Jul-09-2022 08:55:55  GET  [32minfo[39m User Log : No auth token, access danied! : 127.0.0.1 : /v1/
+Jul-09-2022 08:56:24  GET  [32minfo[39m  User Log | No auth token, access danied! | 127.0.0.1/v1/
+Jul-09-2022 08:56:57  GET  [32minfo[39m  User Log | No auth token, access danied! | 127.0.0.1 | /v1/
+Jul-09-2022 08:57:04  GET  [31merror[39m  User Log | 404 NotFound API endpoint doesn't exists! | 127.0.0.1 | /v1/jasd
+Jul-09-2022 08:57:48  GET  [31merror[39m  User Log | 404 NotFound API endpoint doesn't exists! | 127.0.0.1 | /
+Jul-09-2022 08:57:54  GET  [31merror[39m  User Log | 404 NotFound API endpoint doesn't exists! | 127.0.0.1 | /s
+Jul-09-2022 08:58:05  GET  [32minfo[39m  User Log | No auth token, access danied! | 127.0.0.1 | /v1

@@ -1,7 +1,7 @@
 const config = {
   db: {
-    url: "localhost:27017",
-    name: "ecommerce",
+    name: "AlvinAkbar",
+    password: "smart_pipel123",
   },
 };
 

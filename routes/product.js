@@ -9,9 +9,9 @@ const {
   searchProduct,
 } = require("../controllers/product-controller");
 
-productRouter.get("/api/products/", auth, getProducts);
-productRouter.get("/api/products/search/:name", auth, searchProduct);
-productRouter.post("/api/rate-product", auth, rateProduct);
-productRouter.post("/api/deal-of-day", auth, dealOfTheDay);
+productRouter.get("/products/", auth, getProducts);
+productRouter.get("/products/search/:name", auth, searchProduct);
+productRouter.post("/rate-product", auth, rateProduct);
+productRouter.post("/deal-of-day", auth, dealOfTheDay);
 
 module.exports = productRouter;
