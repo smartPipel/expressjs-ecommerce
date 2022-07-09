@@ -5,10 +5,11 @@ const consoleTransport = new transports.Console();
 module.exports = createLogger({
   transports: [
     consoleTransport,
-    new transports.File({ filename: "logs/info.log" }),
+    new transports.File({ filename: "logs/info.log", level: "info" }),
+    new transports.File({ filename: "logs/error.log", level: "error" }),
   ],
   format: combine(
-    label({ label: "User Log" }),
+    label({ label: "User log" }),
     timestamp({ format: "MMM-DD-YYYY HH:mm:ss" }),
     colorize({ colors: { info: "green", error: "red", warn: "yellow" } }),
     printf(
