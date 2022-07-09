@@ -17,7 +17,7 @@ const authRouter = require("./routes/auth");
 const adminRouter = require("./routes/admin");
 const productRouter = require("./routes/product");
 const userRouter = require("./routes/user");
-const logger = require("./logger");
+const logger = require("./utils/logger");
 
 // MIDDLEWARE
 
